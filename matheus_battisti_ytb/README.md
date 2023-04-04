@@ -33,6 +33,8 @@ docker run -d nomedocontainer
 ```
 docker run -d -p 80:80 --name nomedomeucontainer nginx
 ``` 
+> -p : publicar porta
+> -d : desatachando meu terminal do processo do container, o terminal não ficará preso
 
 ### Para parar esse container
 ```
