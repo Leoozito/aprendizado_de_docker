@@ -1,0 +1,12 @@
+{
+  "name": "anotacao-docker",
+  "version": "1.0.0",
+  "description": "> O começo do docker é ter obviamente o docker instalado e se possivel no VScode ter uma extensão do Docker baixado ``` docker version ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
